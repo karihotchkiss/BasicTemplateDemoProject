@@ -1,0 +1,73 @@
+{
+  "templateType" : "app",
+  "label" : "NovemberDemoTemplate",
+  "name" : "NovemberDemoTemplate",
+  "namespace" : "kari_de",
+  "assetVersion" : 56.0,
+  "variableDefinition" : "variables.json",
+  "uiDefinition" : "ui.json",
+  "rules" : [
+    {
+      "type" : "templateToApp",
+      "file" : "template-to-app-rules.json"
+    },
+    {
+      "type" : "appToTemplate",
+      "file" : "app-to-template-rules.json"
+    }
+  ],
+  "releaseInfo" : {
+    "templateVersion" : "1.1",
+    "notesFile" : "releaseNotes.html"
+  },
+  "folderDefinition" : "folder.json",
+  "externalFiles" : [ ],
+  "lenses" : [ ],
+  "dashboards" : [
+    {
+      "label" : "Simple Comparison",
+      "name" : "Simple_Comparison_tp",
+      "condition" : "${Variables.Overrides.createAllDashboards}",
+      "file" : "dashboards/Simple_Comparison.json"
+    }
+  ],
+  "components" : [ ],
+  "eltDataflows" : [ ],
+  "recipes" : [
+    {
+      "label" : "RecipeOne",
+      "name" : "RecipeOne",
+      "condition" : "${Variables.Overrides.createAllRecipes}",
+      "file" : "recipes/RecipeOne.json",
+      "executeCondition" : "CreateSyncExecute"
+    }
+  ],
+  "datasetFiles" : [
+    {
+      "label" : "CustomerAccounts",
+      "name" : "CustomerAccounts_tp",
+      "condition" : "${Variables.Overrides.createAllDatasetFiles}",
+      "userXmd" : "dataset_files/CustomerAccounts_XMD.json"
+    },
+    {
+      "label" : "PartnerAccounts",
+      "name" : "PartnerAccounts_tp",
+      "condition" : "${Variables.Overrides.createAllDatasetFiles}",
+      "userXmd" : "dataset_files/PartnerAccounts_XMD.json"
+    }
+  ],
+  "storedQueries" : [ ],
+  "imageFiles" : [
+  ],
+  "extendedTypes" : { },
+  "templateDependencies" : [ ],
+  "icons" : {
+    "appBadge" : {
+      "name" : "16.png"
+    },
+    "templateBadge" : {
+      "name" : "default.png"
+    },
+    "templatePreviews" : [ ]
+  }
+}

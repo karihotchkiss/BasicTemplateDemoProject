@@ -1,0 +1,1002 @@
+Name,AccountNumber,AccountSource,AnnualRevenue,Type,BillingState,Industry
+Beck370 Inc,,Advertisement,1000000,Customer,,Finance
+Dennis371 Inc,,Word of mouth,1000000,Customer,,Insurance
+Abbott372 Inc,,Word of mouth,1000000,Partner,HI,Consulting
+Duncan373 Inc,,Employee Referral,1000000,Partner,,Education
+Fuller374 Inc,,Employee Referral,1000000,Customer,DE,Agriculture
+Klein375 Inc,,Web,1000000,Customer,UT,Insurance
+Dixon376 Inc,,Public Relations,1000000,Customer,NH,Biotechnology
+Salazar257 Inc,,Partner,800000,Customer,,Manufacturing
+Patrick258 Inc,,Trade Show,800000,Customer,MN,Biotechnology
+Wells259 Inc,,Trade Show,800000,Customer,RI,Engineering
+Dawson260 Inc,,Public Relations,800000,Customer,PA,Media
+Holloway261 Inc,,Employee Referral,800000,Customer,,Apparel
+Estrada262 Inc,,Partner,800000,Customer,AK,Insurance
+Beck462 Inc,,Web,800000,Customer,WV,Biotechnology
+Hill463 Inc,,Partner,800000,Customer,MI,Telecommunications
+Maldonado464 Inc,,Partner,800000,Customer,HI,Technology
+Figueroa465 Inc,,Employee Referral,800000,Customer,,Transportation
+Porter466 Inc,,Employee Referral,800000,Partner,MT,Biotechnology
+McDaniel467 Inc,,Advertisement,800000,Customer,,Biotechnology
+Edwards468 Inc,,Advertisement,800000,Partner,KS,Biotechnology
+Cobb469 Inc,,Partner,800000,Customer,MS,Transportation
+Moore470 Inc,,Web,800000,Customer,,Electronics
+Holloway471 Inc,,Public Relations,800000,Partner,,Biotechnology
+Padilla472 Inc,,Word of mouth,800000,Customer,DE,Consulting
+Cross473 Inc,,Seminar - Internal,800000,Customer,,Retail
+Bridges474 Inc,,Public Relations,800000,Partner,,Technology
+Chapman475 Inc,,Advertisement,800000,Partner,,Media
+Hunt476 Inc,,Word of mouth,800000,Customer,ND,Finance
+Stanley477 Inc,,Seminar - Internal,800000,Partner,,Engineering
+Schmidt478 Inc,,Employee Referral,800000,Customer,,Technology
+Bowman479 Inc,,Employee Referral,1500000,Customer,,Manufacturing
+Moss480 Inc,,Advertisement,1500000,Partner,NC,Engineering
+Myers320 Inc,,Employee Referral,500000,Partner,,Agriculture
+Tate321 Inc,,Partner,500000,Customer,,Apparel
+Fowler322 Inc,,Public Relations,500000,Partner,ND,Apparel
+Marsh323 Inc,,Word of mouth,500000,Customer,CT,Media
+Cortez324 Inc,,Web,500000,Partner,,Utilities
+Dennis325 Inc,,Trade Show,500000,Partner,NH,Engineering
+Haynes326 Inc,,Advertisement,500000,Customer,TN,Media
+Ellis327 Inc,,Trade Show,500000,Customer,,Banking
+Black328 Inc,,Public Relations,500000,Partner,,Retail
+Gill329 Inc,,Web,500000,Partner,MD,Insurance
+Hale330 Inc,,Advertisement,500000,Partner,NY,Insurance
+Hill331 Inc,,Employee Referral,500000,Customer,IN,Apparel
+Hicks332 Inc,,Partner,500000,Customer,,Energy
+Rowe333 Inc,,Public Relations,500000,Customer,SD,Communications
+Pittman334 Inc,,Trade Show,500000,Customer,NH,Finance
+Adams335 Inc,,Employee Referral,500000,Customer,,Electronics
+Atkins336 Inc,,Advertisement,500000,Customer,,Finance
+Mitchell534 Inc,,Employee Referral,500000,Customer,,Education
+Duncan535 Inc,,Employee Referral,500000,Partner,NM,Finance
+Crawford536 Inc,,Partner,500000,Customer,VA,Energy
+Morton537 Inc,,Employee Referral,500000,Customer,LA,Transportation
+Conner538 Inc,,Word of mouth,500000,Partner,,Retail
+Tran539 Inc,,Web,500000,Customer,CT,Finance
+Davis540 Inc,,Web,500000,Customer,CT,Consulting
+Morris541 Inc,,Employee Referral,500000,Partner,RI,Technology
+Rivera377 Inc,,Employee Referral,1000000,Partner,,Energy
+Armstrong378 Inc,,Trade Show,1000000,Customer,NE,Insurance
+Banks379 Inc,,Employee Referral,1000000,Partner,,Apparel
+Nash380 Inc,,Advertisement,1000000,Customer,,Banking
+Webb381 Inc,,Advertisement,1000000,Customer,,Apparel
+Robinson382 Inc,,Employee Referral,1000000,Partner,,Agriculture
+Houston383 Inc,,Trade Show,1000000,Customer,CT,Electronics
+Rios384 Inc,,Web,1000000,Partner,,Insurance
+Rivera385 Inc,,Advertisement,1000000,Customer,,Apparel
+Arnold386 Inc,,Word of mouth,1000000,Customer,RI,Retail
+Banks163 Inc,,Partner,1000000,Customer,TX,Technology
+King177 Inc,,Web,1000000,Customer,TX,Telecommunications
+Morrison178 Inc,,Partner,1000000,Customer,,Apparel
+Perez179 Inc,,Partner,1000000,Customer,,Engineering
+Quinn180 Inc,,Advertisement,1000000,Customer,KS,Media
+Martinez181 Inc,,Partner,1000000,Customer,ME,Biotechnology
+Allen182 Inc,,Trade Show,1000000,Customer,,Apparel
+Williamson183 Inc,,Advertisement,1000000,Partner,NM,Apparel
+Crawford184 Inc,,Partner,1000000,Customer,OK,Education
+Klein185 Inc,,Employee Referral,1000000,Customer,,Banking
+Reed186 Inc,,Web,1000000,Customer,,Retail
+Duncan187 Inc,,Word of mouth,1000000,Partner,,Energy
+Christensen164 Inc,,Web,1000000,Customer,,Electronics
+Webb165 Inc,,Employee Referral,1000000,Customer,NE,Apparel
+Allen481 Inc,,Word of mouth,1500000,Customer,IA,Technology
+Guzman482 Inc,,Trade Show,1500000,Partner,NV,Finance
+Long647 Inc,,Web,1500000,Customer,,Healthcare
+Soto648 Inc,,Web,1500000,Customer,WI,Agriculture
+Martinez649 Inc,,Advertisement,1500000,Partner,,Apparel
+Cummings650 Inc,,Web,1500000,Customer,,Energy
+Hines651 Inc,,Partner,1500000,Customer,,Technology
+Colon652 Inc,,Web,1500000,Customer,NH,Banking
+Warren653 Inc,,Advertisement,1500000,Partner,,Retail
+Fleming654 Inc,,Employee Referral,1500000,Partner,AZ,Insurance
+Dixon655 Inc,,Trade Show,1500000,Customer,,Insurance
+Russell656 Inc,,Web,1500000,Customer,,Agriculture
+Benson657 Inc,,Trade Show,1500000,Customer,LA,Communications
+McDonald658 Inc,,Advertisement,1500000,Customer,,Agriculture
+Long659 Inc,,Employee Referral,1500000,Partner,WA,Apparel
+Hicks660 Inc,,Trade Show,1500000,Customer,FL,Electronics
+Bass661 Inc,,Trade Show,1500000,Partner,IA,Agriculture
+Nichols662 Inc,,Employee Referral,1500000,Partner,,Manufacturing
+Simmons663 Inc,,Word of mouth,1500000,Partner,,Energy
+Palmer664 Inc,,Partner,1500000,Customer,,Retail
+Woods665 Inc,,Word of mouth,1500000,Partner,,Manufacturing
+Higgins666 Inc,,Employee Referral,1500000,Customer,,Media
+Newman667 Inc,,Employee Referral,1500000,Customer,,Apparel
+Rogers668 Inc,,Word of mouth,1500000,Partner,,Finance
+Moore669 Inc,,Advertisement,1500000,Customer,,Insurance
+McKinney542 Inc,,Employee Referral,500000,Customer,,Education
+Barnett543 Inc,,Employee Referral,500000,Partner,,Consulting
+Potter544 Inc,,Employee Referral,500000,Partner,WY,Retail
+Freeman545 Inc,,Trade Show,500000,Partner,,Healthcare
+Caldwell546 Inc,,Employee Referral,500000,Partner,,Apparel
+Bowen547 Inc,,Word of mouth,500000,Customer,,Healthcare
+Torres548 Inc,,Public Relations,500000,Customer,,Biotechnology
+Phelps549 Inc,,Employee Referral,500000,Customer,TN,Finance
+Garza550 Inc,,Public Relations,500000,Customer,DC,Insurance
+Owens551 Inc,,Web,500000,Partner,,Consulting
+Phillips552 Inc,,Web,500000,Customer,MI,Insurance
+Long553 Inc,,Public Relations,500000,Customer,OK,Engineering
+Gibbs554 Inc,,Word of mouth,500000,Partner,,Media
+Stone555 Inc,,Word of mouth,500000,Customer,,Electronics
+Pittman556 Inc,,Partner,700000,Customer,ID,Consulting
+Clayton557 Inc,,Word of mouth,700000,Partner,,Apparel
+Smith558 Inc,,Seminar - Internal,700000,Partner,SD,Electronics
+Williamson719 Inc,,Seminar - Internal,700000,Partner,,Technology
+Munoz720 Inc,,Word of mouth,700000,Customer,IL,Engineering
+Robertson721 Inc,,Web,700000,Customer,NY,Education
+Phillips722 Inc,,Partner,700000,Partner,SC,Manufacturing
+Wade723 Inc,,Trade Show,700000,Customer,IL,Banking
+Munoz724 Inc,,Employee Referral,700000,Customer,,Agriculture
+Jones725 Inc,,Employee Referral,700000,Customer,IL,Finance
+Figueroa166 Inc,,Partner,1000000,Customer,,Utilities
+Stone167 Inc,,Word of mouth,1000000,Partner,CO,Energy
+Newman168 Inc,,Employee Referral,1000000,Partner,,Apparel
+Baker169 Inc,,Employee Referral,1000000,Customer,,Consulting
+Coleman170 Inc,,Partner,1000000,Customer,,Banking
+Olson171 Inc,,Word of mouth,1000000,Customer,,Transportation
+Carter172 Inc,,Trade Show,1000000,Partner,,Utilities
+Greer173 Inc,,Advertisement,1000000,Customer,MN,Transportation
+Jordan174 Inc,,Word of mouth,1000000,Customer,,Healthcare
+Wise175 Inc,,Seminar - Internal,1000000,Partner,SC,Insurance
+Carpenter176 Inc,,Public Relations,1000000,Partner,,Energy
+Flores188 Inc,,Employee Referral,1000000,Customer,VA,Retail
+Hoffman387 Inc,,Partner,1000000,Partner,WV,Transportation
+Ross388 Inc,,Web,1000000,Customer,IA,Education
+Fleming389 Inc,,Word of mouth,1000000,Customer,,Manufacturing
+Gardner390 Inc,,Web,1000000,Customer,,Energy
+Stephens391 Inc,,Trade Show,1000000,Customer,MI,Insurance
+Pratt392 Inc,,Employee Referral,1000000,Partner,,Retail
+Wilson393 Inc,,Advertisement,1000000,Customer,,Education
+Robinson394 Inc,,Word of mouth,1000000,Customer,,Education
+Rivera395 Inc,,Seminar - Internal,2000000,Customer,ND,Engineering
+Cook396 Inc,,Advertisement,2000000,Partner,,Finance
+Warren397 Inc,,Employee Referral,2000000,Customer,SC,Education
+Brewer398 Inc,,Word of mouth,2000000,Customer,DC,Media
+Maxwell670 Inc,,Word of mouth,1500000,Customer,OR,Media
+Cooper671 Inc,,Web,1500000,Customer,NM,Communications
+Green672 Inc,,Word of mouth,1500000,Partner,,Biotechnology
+Fleming816 Inc,,Partner,1500000,Customer,,Insurance
+Colon817 Inc,,Trade Show,1500000,Customer,NH,Media
+King818 Inc,,Employee Referral,1500000,Customer,,Telecommunications
+Larson819 Inc,,Employee Referral,1500000,Partner,,Consulting
+Green820 Inc,,Employee Referral,1500000,Partner,,Apparel
+Strickland821 Inc,,Trade Show,1500000,Customer,OK,Media
+Flowers822 Inc,,Trade Show,1500000,Partner,KS,Energy
+Flores823 Inc,,Public Relations,1500000,Customer,,Education
+Richardson824 Inc,,Web,1500000,Partner,,Media
+Shelton825 Inc,,Seminar - Internal,1500000,Customer,,Banking
+Romero826 Inc,,Web,1500000,Customer,,Manufacturing
+Fuller827 Inc,,Word of mouth,1500000,Customer,UT,Apparel
+Hart828 Inc,,Partner,1500000,Customer,,Electronics
+Nelson829 Inc,,Web,1500000,Customer,,Media
+Rios830 Inc,,Employee Referral,1500000,Customer,NJ,Apparel
+Greer831 Inc,,Advertisement,1500000,Customer,,Finance
+Floyd832 Inc,,Employee Referral,1500000,Customer,,Banking
+Porter833 Inc,,Advertisement,1500000,Customer,,Education
+Lane834 Inc,,Trade Show,1500000,Customer,NE,Transportation
+Ford835 Inc,,Word of mouth,1500000,Partner,,Insurance
+Marsh836 Inc,,Advertisement,1500000,Customer,CT,Insurance
+Day837 Inc,,Seminar - Internal,1500000,Customer,,Energy
+Cole726 Inc,,Advertisement,700000,Customer,,Consulting
+Wallace727 Inc,,Employee Referral,700000,Customer,,Transportation
+Ellis728 Inc,,Trade Show,700000,Customer,,Utilities
+Jensen729 Inc,,Advertisement,700000,Partner,KY,Consulting
+Joseph730 Inc,,Trade Show,700000,Customer,ME,Energy
+Cortez731 Inc,,Seminar - Internal,700000,Customer,,Banking
+McGuire732 Inc,,Word of mouth,700000,Customer,,Consulting
+Fleming733 Inc,,Trade Show,700000,Partner,,Agriculture
+Hopkins734 Inc,,Trade Show,700000,Customer,,Engineering
+Jordan735 Inc,,Word of mouth,700000,Customer,,Manufacturing
+Schneider736 Inc,,Word of mouth,700000,Customer,,Engineering
+Sanchez737 Inc,,Seminar - Internal,700000,Customer,,Engineering
+Ferguson738 Inc,,Employee Referral,700000,Partner,,Technology
+Hopkins739 Inc,,Employee Referral,700000,Customer,KY,Education
+Berry740 Inc,,Web,700000,Customer,,Biotechnology
+Grant741 Inc,,Employee Referral,700000,Customer,,Energy
+Grant742 Inc,,Advertisement,700000,Customer,,Utilities
+Mitchell743 Inc,,Advertisement,700000,Customer,LA,Energy
+Carlson744 Inc,,Employee Referral,700000,Partner,DE,Banking
+Rogers895 Inc,,Employee Referral,700000,Partner,WA,Biotechnology
+Maxwell896 Inc,,Word of mouth,700000,Customer,NM,Banking
+Santos897 Inc,,Seminar - Internal,700000,Partner,WY,Energy
+James898 Inc,,Word of mouth,700000,Customer,OH,Manufacturing
+Lindsey899 Inc,,Web,700000,Partner,NV,Technology
+Luna900 Inc,,Trade Show,700000,Customer,NH,Energy
+Pittman399 Inc,,Employee Referral,2000000,Customer,ME,Manufacturing
+Owens400 Inc,,Advertisement,2000000,Customer,IA,Telecommunications
+Tucker401 Inc,,Employee Referral,2000000,Customer,,Communications
+Briggs402 Inc,,Seminar - Internal,2000000,Customer,,Finance
+Scott403 Inc,,Web,2000000,Partner,CT,Agriculture
+Watson404 Inc,,Web,2000000,Customer,,Agriculture
+Henry405 Inc,,Advertisement,2000000,Customer,,Energy
+Gordon406 Inc,,Advertisement,2000000,Customer,,Engineering
+Oliver407 Inc,,Word of mouth,2000000,Customer,,Utilities
+Myers408 Inc,,Employee Referral,2000000,Partner,MO,Technology
+Gonzales409 Inc,,Web,2000000,Customer,,Engineering
+Myers581 Inc,,Employee Referral,2000000,Customer,FL,Consulting
+Flores582 Inc,,Partner,2000000,Partner,CA,Technology
+Schultz583 Inc,,Word of mouth,2000000,Partner,,Apparel
+Guerrero584 Inc,,Employee Referral,2000000,Customer,,Banking
+Gill585 Inc,,Web,2000000,Customer,,Finance
+McCoy586 Inc,,Employee Referral,2000000,Customer,IN,Technology
+Griffin587 Inc,,Word of mouth,2000000,Customer,,Communications
+Owens588 Inc,,Web,2000000,Customer,,Transportation
+Jackson589 Inc,,Trade Show,2000000,Customer,,Consulting
+Perez590 Inc,,Trade Show,2000000,Customer,MA,Retail
+Klein591 Inc,,Employee Referral,2000000,Customer,,Biotechnology
+Stone592 Inc,,Word of mouth,2000000,Customer,,Banking
+Yates593 Inc,,Advertisement,2000000,Customer,,Engineering
+Benson594 Inc,,Partner,2000000,Customer,DE,Energy
+Cobb838 Inc,,Word of mouth,1500000,Customer,CO,Electronics
+Ramos839 Inc,,Web,1500000,Customer,VT,Engineering
+Christensen840 Inc,,Word of mouth,1500000,Customer,,Technology
+Schneider841 Inc,,Word of mouth,1500000,Customer,,Electronics
+Holland842 Inc,,Seminar - Internal,1500000,Customer,MI,Engineering
+Grant962 Inc,,Employee Referral,1500000,Customer,,Transportation
+Boone963 Inc,,Web,1500000,Customer,,Insurance
+Pena964 Inc,,Employee Referral,1500000,Customer,FL,Electronics
+Conner965 Inc,,Public Relations,1500000,Customer,,Insurance
+Barnett966 Inc,,Employee Referral,1500000,Customer,,Electronics
+May967 Inc,,Partner,1500000,Customer,,Manufacturing
+Gross968 Inc,,Web,1500000,Customer,DE,Agriculture
+Rivera969 Inc,,Partner,1500000,Customer,NC,Manufacturing
+Nash970 Inc,,Word of mouth,1500000,Customer,,Engineering
+Kim971 Inc,,Partner,1500000,Customer,CA,Transportation
+Wagner972 Inc,,Web,1500000,Customer,,Media
+Owens973 Inc,,Word of mouth,1500000,Customer,,Energy
+Cummings974 Inc,,Seminar - Internal,1500000,Customer,,Agriculture
+Myers975 Inc,,Trade Show,1500000,Customer,,Transportation
+Obrien976 Inc,,Word of mouth,1500000,Customer,MN,Healthcare
+Marshall977 Inc,,Seminar - Internal,1500000,Customer,,Insurance
+Mack978 Inc,,Partner,1500000,Customer,NV,Engineering
+Roberts979 Inc,,Trade Show,1500000,Partner,GA,Banking
+Parsons980 Inc,,Word of mouth,1500000,Customer,DE,Insurance
+Flowers981 Inc,,Word of mouth,1500000,Customer,VA,Telecommunications
+Holt901 Inc,,Word of mouth,700000,Customer,,Technology
+Dean902 Inc,,Public Relations,700000,Customer,,Education
+Elliott903 Inc,,Partner,700000,Customer,,Media
+Mann904 Inc,,Trade Show,700000,Customer,MA,Transportation
+Park905 Inc,,Trade Show,700000,Customer,,Technology
+Bennett906 Inc,,Seminar - Internal,700000,Partner,,Technology
+Adkins907 Inc,,Trade Show,700000,Customer,HI,Transportation
+Sharp908 Inc,,Web,700000,Customer,HI,Banking
+Carson909 Inc,,Trade Show,700000,Customer,PA,Technology
+Davis910 Inc,,Seminar - Internal,700000,Customer,MA,Communications
+Ferguson911 Inc,,Word of mouth,700000,Customer,,Technology
+Robinson912 Inc,,Web,700000,Customer,KY,Biotechnology
+Richards913 Inc,,Word of mouth,700000,Customer,NH,Electronics
+Ingram914 Inc,,Word of mouth,700000,Customer,,Media
+Dixon915 Inc,,Trade Show,700000,Customer,,Biotechnology
+Mullins916 Inc,,Employee Referral,700000,Partner,,Engineering
+Malone917 Inc,,Employee Referral,700000,Partner,ME,Agriculture
+Walters918 Inc,,Employee Referral,700000,Partner,,Consulting
+Love919 Inc,,Trade Show,700000,Customer,,Apparel
+Griffin920 Inc,,Partner,700000,Customer,AK,Biotechnology
+Cunningham337 Inc,,Partner,700000,Customer,,Retail
+Byrd338 Inc,,Public Relations,700000,Customer,,Engineering
+Poole339 Inc,,Employee Referral,700000,Customer,,Technology
+Massey340 Inc,,Word of mouth,700000,Customer,,Manufacturing
+Garza341 Inc,,Trade Show,700000,Customer,,Media
+Mendez595 Inc,,Public Relations,2000000,Partner,NM,Banking
+Chambers596 Inc,,Trade Show,2000000,Partner,,Biotechnology
+Bishop597 Inc,,Advertisement,2000000,Customer,,Agriculture
+Black598 Inc,,Partner,2000000,Partner,,Manufacturing
+Joseph599 Inc,,Seminar - Internal,2000000,Customer,IL,Energy
+Hopkins600 Inc,,Advertisement,2000000,Partner,,Telecommunications
+Rios771 Inc,,Partner,2000000,Partner,,Engineering
+Rice189 Inc,,Employee Referral,2000000,Customer,,Transportation
+Diaz190 Inc,,Trade Show,2000000,Customer,,Finance
+Houston191 Inc,,Partner,2000000,Customer,CA,Energy
+Lee192 Inc,,Seminar - Internal,2000000,Customer,,Engineering
+Curtis193 Inc,,Employee Referral,2000000,Customer,HI,Retail
+Jensen194 Inc,,Word of mouth,2000000,Customer,,Communications
+Harris195 Inc,,Employee Referral,2000000,Partner,,Transportation
+Vasquez196 Inc,,Employee Referral,2000000,Customer,,Utilities
+Webster197 Inc,,Employee Referral,2000000,Customer,,Communications
+Perkins198 Inc,,Partner,2000000,Customer,,Transportation
+Montgomery199 Inc,,Public Relations,2000000,Customer,,Transportation
+Stokes200 Inc,,Seminar - Internal,2000000,Partner,,Insurance
+Austin201 Inc,,Word of mouth,2000000,Customer,,Technology
+Reeves202 Inc,,Partner,2000000,Customer,,Apparel
+Simmons203 Inc,,Advertisement,2000000,Customer,NC,Healthcare
+Howell204 Inc,,Trade Show,2000000,Customer,OK,Technology
+Mack982 Inc,,Seminar - Internal,1500000,Customer,,Banking
+Hawkins983 Inc,,Public Relations,700000000,Customer,VA,Retail
+McGuire984 Inc,,Word of mouth,700000000,Customer,SD,Utilities
+Jimenez985 Inc,,Web,700000000,Customer,,Engineering
+Cooper986 Inc,,Partner,700000000,Partner,CO,Engineering
+Summers987 Inc,,Public Relations,700000000,Customer,,Transportation
+Gibbs52 Inc,,Seminar - Internal,700000000,Customer,OK,Media
+Brown53 Inc,,Employee Referral,700000000,Partner,,Technology
+Walsh54 Inc,,Public Relations,700000000,Customer,,Telecommunications
+Leonard55 Inc,,Employee Referral,700000000,Customer,,Transportation
+Martin56 Inc,,Partner,700000000,Partner,NM,Telecommunications
+Manning57 Inc,,Web,700000000,Customer,ID,Engineering
+Daniel58 Inc,,Partner,700000000,Customer,,Manufacturing
+Doyle59 Inc,,Word of mouth,700000000,Customer,,Biotechnology
+Stokes60 Inc,,Employee Referral,700000000,Customer,,Technology
+Hines61 Inc,,Advertisement,700000000,Customer,,Manufacturing
+Gibson62 Inc,,Partner,700000000,Customer,,Healthcare
+Rhodes63 Inc,,Advertisement,700000000,Partner,,Insurance
+Lopez64 Inc,,Employee Referral,700000000,Customer,NE,Consulting
+Reed65 Inc,,Web,700000000,Customer,,Electronics
+Wells66 Inc,,Employee Referral,700000000,Customer,,Apparel
+Carpenter67 Inc,,Public Relations,700000000,Customer,SC,Manufacturing
+Figueroa68 Inc,,Web,700000000,Customer,,Engineering
+Sharp69 Inc,,Word of mouth,700000000,Customer,MO,Electronics
+Harper70 Inc,,Partner,700000000,Partner,,Education
+Simpson342 Inc,,Public Relations,700000,Customer,HI,Media
+Shaw343 Inc,,Employee Referral,700000,Customer,NY,Insurance
+Clayton344 Inc,,Web,700000,Customer,CA,Manufacturing
+Armstrong345 Inc,,Employee Referral,700000,Customer,,Technology
+Benson346 Inc,,Employee Referral,700000,Customer,,Technology
+Bowman347 Inc,,Employee Referral,700000,Customer,SC,Education
+Arnold348 Inc,,Partner,700000,Partner,,Retail
+Webster349 Inc,,Partner,700000,Customer,IL,Manufacturing
+Weaver350 Inc,,Seminar - Internal,700000,Partner,,Technology
+Vasquez351 Inc,,Employee Referral,700000,Customer,,Biotechnology
+Lowe352 Inc,,Web,700000,Customer,,Consulting
+Jensen353 Inc,,Web,700000,Customer,,Transportation
+Franklin354 Inc,,Word of mouth,700000,Customer,CT,Telecommunications
+Freeman355 Inc,,Advertisement,700000,Customer,NE,Technology
+Bennett356 Inc,,Partner,700000,Customer,IN,Insurance
+Stewart357 Inc,,Partner,700000,Customer,,Consulting
+Abbott358 Inc,,Partner,700000,Customer,AR,Media
+Mills359 Inc,,Partner,700000,Customer,GA,Banking
+Roy360 Inc,,Advertisement,700000,Customer,,Insurance
+Joseph361 Inc,,Web,700000,Partner,,Manufacturing
+Richards362 Inc,,Trade Show,700000,Partner,,Retail
+Ross559 Inc,,Employee Referral,700000,Partner,NH,Energy
+Russell560 Inc,,Employee Referral,700000,Customer,,Education
+Watkins561 Inc,,Web,700000,Partner,AR,Finance
+Beck562 Inc,,Trade Show,700000,Customer,MD,Banking
+Sandoval205 Inc,,Partner,2000000,Customer,,Manufacturing
+Miller206 Inc,,Public Relations,2000000,Partner,,Biotechnology
+Stone207 Inc,,Word of mouth,2000000,Customer,,Banking
+Thomas208 Inc,,Partner,2000000,Customer,,Energy
+Gonzales209 Inc,,Partner,2000000,Customer,,Utilities
+Romero210 Inc,,Word of mouth,2000000,Customer,AZ,Agriculture
+Simmons211 Inc,,Advertisement,2000000,Customer,AZ,Banking
+Cannon212 Inc,,Public Relations,2000000,Customer,VT,Manufacturing
+Barker213 Inc,,Employee Referral,2000000,Customer,,Insurance
+Vega214 Inc,,Advertisement,2000000,Customer,,Electronics
+Pittman435 Inc,,Word of mouth,2000000,Customer,,Biotechnology
+Foster410 Inc,,Trade Show,2000000,Customer,,Media
+Payne411 Inc,,Word of mouth,2000000,Customer,VT,Communications
+Rodriquez412 Inc,,Web,2000000,Customer,IN,Banking
+Hawkins413 Inc,,Public Relations,2000000,Partner,,Banking
+Stone414 Inc,,Web,2000000,Partner,,Communications
+Daniel415 Inc,,Web,2000000,Customer,,Technology
+West416 Inc,,Advertisement,2000000,Customer,,Energy
+Wells417 Inc,,Advertisement,2000000,Customer,,Manufacturing
+Tyler418 Inc,,Partner,2000000,Partner,PA,Electronics
+Joseph419 Inc,,Partner,2000000,Customer,CA,Energy
+Curry420 Inc,,Partner,2000000,Customer,,Media
+Wagner421 Inc,,Word of mouth,2000000,Customer,MO,Education
+Rodriguez422 Inc,,Employee Referral,2000000,Customer,SC,Electronics
+Reese71 Inc,,Seminar - Internal,700000000,Partner,,Insurance
+Leonard263 Inc,,Partner,700000000,Customer,MA,Insurance
+Hansen264 Inc,,Web,700000000,Customer,WI,Telecommunications
+Fields265 Inc,,Employee Referral,700000000,Partner,,Telecommunications
+Beck266 Inc,,Public Relations,700000000,Partner,AZ,Communications
+Daniels267 Inc,,Web,700000000,Partner,,Media
+Clarke268 Inc,,Advertisement,700000000,Customer,TX,Education
+Anderson269 Inc,,Partner,700000000,Customer,,Biotechnology
+Elliott270 Inc,,Partner,700000000,Partner,,Engineering
+Bass271 Inc,,Public Relations,700000000,Customer,,Agriculture
+Cruz272 Inc,,Word of mouth,700000000,Customer,MN,Insurance
+Harper273 Inc,,Employee Referral,700000000,Partner,,Manufacturing
+Adkins274 Inc,,Web,700000000,Customer,ME,Finance
+Lopez275 Inc,,Seminar - Internal,700000000,Customer,,Engineering
+Hawkins276 Inc,,Seminar - Internal,700000000,Customer,,Insurance
+Dawson277 Inc,,Word of mouth,700000000,Customer,,Manufacturing
+Douglas278 Inc,,Word of mouth,700000000,Partner,,Agriculture
+Harrison279 Inc,,Web,700000000,Partner,,Retail
+George280 Inc,,Advertisement,700000000,Customer,NY,Agriculture
+Evans281 Inc,,Employee Referral,700000000,Customer,,Apparel
+Munoz282 Inc,,Web,700000000,Customer,,Manufacturing
+Lucas283 Inc,,Employee Referral,700000000,Partner,WI,Engineering
+Tucker284 Inc,,Public Relations,700000000,Customer,,Agriculture
+Miles285 Inc,,Partner,700000000,Partner,CT,Electronics
+Keller563 Inc,,Web,700000,Customer,,Insurance
+Brady564 Inc,,Web,700000,Customer,CA,Electronics
+Austin565 Inc,,Seminar - Internal,700000,Partner,KS,Energy
+Todd566 Inc,,Employee Referral,700000,Partner,,Technology
+Green567 Inc,,Employee Referral,700000,Partner,,Telecommunications
+Long568 Inc,,Web,700000,Customer,,Engineering
+Horton569 Inc,,Word of mouth,700000,Customer,ID,Retail
+Mitchell570 Inc,,Word of mouth,700000,Customer,,Communications
+Freeman571 Inc,,Web,700000,Customer,OK,Education
+Fox572 Inc,,Employee Referral,700000,Partner,,Engineering
+Haynes573 Inc,,Word of mouth,700000,Partner,,Technology
+Cain574 Inc,,Advertisement,700000,Partner,,Biotechnology
+Grant575 Inc,,Seminar - Internal,700000,Partner,AL,Finance
+Bowen576 Inc,,Employee Referral,700000,Customer,HI,Banking
+Tucker577 Inc,,Word of mouth,700000,Customer,CO,Insurance
+Vargas578 Inc,,Employee Referral,700000,Partner,UT,Education
+Hernandez579 Inc,,Web,700000,Partner,HI,Retail
+Griffith580 Inc,,Trade Show,700000,Partner,TX,Transportation
+Ford745 Inc,,Partner,700000,Customer,WA,Finance
+Greer746 Inc,,Public Relations,700000,Partner,NM,Engineering
+Douglas747 Inc,,Word of mouth,700000,Customer,,Insurance
+Mendoza748 Inc,,Partner,700000,Partner,,Manufacturing
+Hall749 Inc,,Word of mouth,700000,Customer,,Telecommunications
+Payne750 Inc,,Employee Referral,700000,Partner,MO,Banking
+Freeman751 Inc,,Partner,2000000,Customer,,Retail
+Wells423 Inc,,Word of mouth,2000000,Customer,NV,Banking
+Larson424 Inc,,Trade Show,2000000,Customer,UT,Electronics
+Davis425 Inc,,Advertisement,2000000,Customer,WY,Biotechnology
+Abbott426 Inc,,Advertisement,2000000,Partner,,Healthcare
+Garza427 Inc,,Partner,2000000,Partner,,Energy
+Sparks428 Inc,,Word of mouth,2000000,Customer,,Healthcare
+Fletcher429 Inc,,Employee Referral,2000000,Customer,,Retail
+Morris430 Inc,,Employee Referral,2000000,Partner,ND,Banking
+James431 Inc,,Word of mouth,2000000,Customer,,Engineering
+Newman432 Inc,,Seminar - Internal,2000000,Customer,NM,Technology
+Duncan433 Inc,,Advertisement,2000000,Customer,MI,Telecommunications
+Edwards434 Inc,,Seminar - Internal,2000000,Partner,IN,Transportation
+Roberson601 Inc,,Employee Referral,2000000,Partner,,Technology
+McCarthy602 Inc,,Word of mouth,2000000,Partner,,Healthcare
+Chavez603 Inc,,Employee Referral,2000000,Partner,,Insurance
+Reed604 Inc,,Trade Show,2000000,Customer,,Media
+Lopez605 Inc,,Trade Show,2000000,Customer,AL,Banking
+Davidson606 Inc,,Partner,2000000,Customer,,Healthcare
+Hayes607 Inc,,Trade Show,2000000,Customer,,Insurance
+Rodriguez608 Inc,,Public Relations,2000000,Partner,FL,Media
+Buchanan609 Inc,,Word of mouth,2000000,Partner,AZ,Finance
+Potter610 Inc,,Employee Referral,2000000,Customer,NH,Transportation
+Lamb611 Inc,,Word of mouth,2000000,Partner,,Consulting
+Ellis286 Inc,,Advertisement,700000000,Partner,,Media
+Vasquez483 Inc,,Public Relations,700000000,Customer,MI,Education
+Norman484 Inc,,Advertisement,700000000,Partner,,Manufacturing
+Newman485 Inc,,Advertisement,700000000,Partner,UT,Manufacturing
+Young486 Inc,,Advertisement,700000000,Customer,OH,Technology
+Underwood487 Inc,,Web,700000000,Customer,IA,Apparel
+Becker488 Inc,,Word of mouth,700000000,Customer,,Transportation
+Moss489 Inc,,Word of mouth,700000000,Customer,,Banking
+Reese490 Inc,,Employee Referral,700000000,Customer,,Communications
+Lawrence491 Inc,,Word of mouth,700000000,Customer,OK,Transportation
+Schwartz492 Inc,,Partner,700000000,Customer,,Media
+Saunders493 Inc,,Web,700000000,Customer,,Electronics
+Higgins494 Inc,,Trade Show,700000000,Customer,,Media
+Brown495 Inc,,Web,700000000,Customer,MD,Retail
+Lowe496 Inc,,Partner,700000000,Partner,,Communications
+Medina497 Inc,,Trade Show,700000000,Customer,,Engineering
+Doyle498 Inc,,Seminar - Internal,700000000,Partner,,Transportation
+Gardner499 Inc,,Advertisement,700000000,Partner,VA,Banking
+Howard500 Inc,,Public Relations,700000000,Partner,,Manufacturing
+Gill501 Inc,,Employee Referral,700000000,Customer,PA,Telecommunications
+Thornton502 Inc,,Trade Show,700000000,Customer,,Technology
+Fitzgerald503 Inc,,Partner,700000000,Customer,FL,Banking
+Stone504 Inc,,Employee Referral,700000000,Partner,MA,Energy
+Leonard505 Inc,,Public Relations,700000000,Customer,,Energy
+Rivera752 Inc,,Trade Show,2000000,Customer,GA,Banking
+Chambers753 Inc,,Word of mouth,2000000,Partner,,Technology
+Gill754 Inc,,Employee Referral,2000000,Partner,,Energy
+Becker755 Inc,,Web,2000000,Partner,,Biotechnology
+Harper756 Inc,,Public Relations,2000000,Customer,SD,Education
+Ramirez757 Inc,,Advertisement,2000000,Partner,,Manufacturing
+Hall758 Inc,,Employee Referral,2000000,Customer,NJ,Telecommunications
+Reynolds759 Inc,,Public Relations,2000000,Customer,AL,Media
+Hogan760 Inc,,Advertisement,2000000,Partner,,Finance
+Hoffman761 Inc,,Word of mouth,2000000,Customer,,Apparel
+Fleming762 Inc,,Trade Show,2000000,Customer,RI,Insurance
+Brewer763 Inc,,Trade Show,2000000,Customer,,Electronics
+Sharp764 Inc,,Employee Referral,2000000,Customer,MS,Technology
+Myers765 Inc,,Partner,2000000,Customer,MA,Communications
+Greer766 Inc,,Advertisement,2000000,Customer,UT,Electronics
+Casey767 Inc,,Advertisement,2000000,Customer,,Energy
+Rodriguez768 Inc,,Web,2000000,Customer,,Manufacturing
+Wilkerson769 Inc,,Employee Referral,2000000,Customer,,Insurance
+Cooper770 Inc,,Advertisement,2000000,Partner,,Telecommunications
+Lawson921 Inc,,Word of mouth,2000000,Customer,,Engineering
+Bennett922 Inc,,Advertisement,2000000,Customer,,Retail
+Pierce923 Inc,,Partner,2000000,Partner,,Electronics
+Turner924 Inc,,Partner,2000000,Customer,,Utilities
+Graves925 Inc,,Word of mouth,2000000,Customer,,Education
+Day612 Inc,,Web,2000000,Customer,AR,Agriculture
+Moody613 Inc,,Web,2000000,Customer,,Transportation
+Marsh614 Inc,,Partner,2000000,Partner,,Finance
+Lee615 Inc,,Trade Show,2000000,Customer,,Insurance
+Ingram616 Inc,,Partner,2000000,Customer,NH,Media
+Roy617 Inc,,Employee Referral,2000000,Customer,TX,Telecommunications
+Buchanan618 Inc,,Web,2000000,Customer,,Transportation
+Maxwell619 Inc,,Partner,2000000,Customer,MO,Banking
+Castillo620 Inc,,Web,2000000,Partner,ME,Manufacturing
+Lopez621 Inc,,Word of mouth,2000000,Customer,,Utilities
+Thompson622 Inc,,Word of mouth,2000000,Customer,,Energy
+Haynes623 Inc,,Seminar - Internal,2000000,Partner,,Apparel
+Quinn624 Inc,,Trade Show,2000000,Partner,,Apparel
+Lawrence772 Inc,,Web,2000000,Customer,,Apparel
+Duncan773 Inc,,Seminar - Internal,2000000,Customer,,Technology
+Gilbert774 Inc,,Word of mouth,2000000,Partner,MO,Media
+Joseph775 Inc,,Public Relations,2000000,Partner,AZ,Media
+Bridges776 Inc,,Web,2000000,Customer,WA,Finance
+Figueroa777 Inc,,Web,2000000,Partner,CT,Apparel
+Santiago778 Inc,,Seminar - Internal,2000000,Partner,,Apparel
+Richardson779 Inc,,Word of mouth,2000000,Partner,NV,Telecommunications
+Hamilton780 Inc,,Employee Referral,2000000,Partner,,Energy
+Norton781 Inc,,Public Relations,2000000,Customer,MT,Media
+Morgan782 Inc,,Public Relations,2000000,Customer,SD,Transportation
+Ingram783 Inc,,Trade Show,2000000,Partner,,Retail
+Hudson506 Inc,,Web,700000000,Customer,OH,Finance
+Wright507 Inc,,Word of mouth,700000000,Customer,,Education
+Rose673 Inc,,Word of mouth,700000000,Partner,,Consulting
+Evans674 Inc,,Web,700000000,Customer,,Apparel
+Powers675 Inc,,Word of mouth,700000000,Customer,,Apparel
+Gray676 Inc,,Public Relations,700000000,Customer,,Biotechnology
+Aguilar677 Inc,,Trade Show,700000000,Customer,,Retail
+Curtis678 Inc,,Employee Referral,700000000,Customer,MO,Technology
+Johnson679 Inc,,Web,700000000,Customer,SD,Banking
+Hunt680 Inc,,Word of mouth,700000000,Customer,WY,Media
+Lewis681 Inc,,Employee Referral,700000000,Customer,CA,Energy
+Ortega682 Inc,,Advertisement,700000000,Partner,,Telecommunications
+Hanson683 Inc,,Partner,700000000,Customer,AR,Consulting
+Ryan684 Inc,,Partner,700000000,Partner,,Electronics
+Watts685 Inc,,Word of mouth,700000000,Customer,LA,Biotechnology
+Strickland686 Inc,,Employee Referral,700000000,Customer,,Energy
+Reese687 Inc,,Public Relations,700000000,Customer,TX,Technology
+Goodman688 Inc,,Employee Referral,700000000,Customer,,Technology
+Benson689 Inc,,Employee Referral,700000000,Customer,,Manufacturing
+Todd690 Inc,,Trade Show,700000000,Customer,OH,Biotechnology
+Olson691 Inc,,Employee Referral,700000000,Customer,MN,Healthcare
+Haynes692 Inc,,Web,700000000,Partner,,Insurance
+Schneider843 Inc,,Partner,700000000,Partner,ID,Energy
+Reeves844 Inc,,Web,700000000,Customer,,Apparel
+Bryan926 Inc,,Web,2000000,Customer,,Engineering
+Blair927 Inc,,Trade Show,2000000,Customer,,Retail
+Collins928 Inc,,Advertisement,2000000,Customer,,Apparel
+Harrison929 Inc,,Word of mouth,2000000,Customer,,Utilities
+Harris930 Inc,,Trade Show,2000000,Customer,,Biotechnology
+McCarthy931 Inc,,Trade Show,2000000,Partner,MT,Finance
+Patterson932 Inc,,Employee Referral,2000000,Customer,LA,Telecommunications
+Hopkins933 Inc,,Employee Referral,2000000,Customer,,Energy
+Brewer934 Inc,,Partner,2000000,Customer,,Insurance
+Stokes935 Inc,,Advertisement,2000000,Customer,,Electronics
+Mendoza936 Inc,,Trade Show,2000000,Customer,,Telecommunications
+Glover937 Inc,,Employee Referral,2000000,Customer,AZ,Agriculture
+Bowen938 Inc,,Advertisement,2000000,Customer,CT,Energy
+Watkins939 Inc,,Employee Referral,2000000,Customer,,Biotechnology
+Bowman940 Inc,,Trade Show,2000000,Customer,,Finance
+Brewer941 Inc,,Partner,2000000,Partner,,Apparel
+Bailey942 Inc,,Word of mouth,2000000,Customer,IA,Agriculture
+Lynch943 Inc,,Advertisement,2000000,Customer,,Consulting
+Holloway944 Inc,,Web,2000000,Customer,,Insurance
+Holmes945 Inc,,Advertisement,2000000,Customer,,Insurance
+Santiago946 Inc,,Seminar - Internal,2000000,Customer,,Consulting
+Acme,,,2000000,Partner,NY,Manufacturing
+Global Media,,,2000000,Customer,Ontario,Media
+Palmer784 Inc,,Partner,2000000,Customer,MS,Agriculture
+Peters785 Inc,,Word of mouth,2000000,Partner,,Biotechnology
+Hunt786 Inc,,Word of mouth,2000000,Customer,,Electronics
+Medina787 Inc,,Web,2000000,Partner,,Energy
+French788 Inc,,Partner,2000000,Customer,,Utilities
+Underwood789 Inc,,Advertisement,2000000,Partner,,Healthcare
+Keller1 Inc,,Word of mouth,2000000,Partner,ND,Media
+Herrera2 Inc,,Trade Show,2000000,Customer,AR,Healthcare
+Burgess3 Inc,,Partner,2000000,Customer,,Transportation
+Terry4 Inc,,Advertisement,2000000,Partner,,Engineering
+Robertson5 Inc,,Employee Referral,2000000,Partner,AZ,Agriculture
+Zimmerman6 Inc,,Word of mouth,2000000,Customer,,Insurance
+Holmes7 Inc,,Word of mouth,2000000,Customer,,Engineering
+Roberson8 Inc,,Advertisement,2000000,Customer,,Technology
+Jefferson9 Inc,,Advertisement,2000000,Customer,,Agriculture
+Mendez10 Inc,,Web,2000000,Customer,MT,Biotechnology
+Graham11 Inc,,Web,2000000,Customer,,Healthcare
+Hardy12 Inc,,Seminar - Internal,2000000,Partner,AR,Manufacturing
+Harris13 Inc,,Trade Show,2000000,Customer,,Banking
+Crawford14 Inc,,Employee Referral,2000000,Customer,,Telecommunications
+Hampton15 Inc,,Word of mouth,2000000,Customer,,Utilities
+Parker16 Inc,,Employee Referral,2000000,Partner,NC,Energy
+Garza17 Inc,,Trade Show,2000000,Partner,IN,Energy
+Ferguson18 Inc,,Trade Show,2000000,Partner,NE,Transportation
+Lloyd845 Inc,,Web,700000000,Customer,,Banking
+Beck846 Inc,,Partner,700000000,Customer,,Insurance
+Martin847 Inc,,Web,700000000,Partner,,Agriculture
+Simmons848 Inc,,Trade Show,700000000,Partner,,Apparel
+Patterson849 Inc,,Partner,700000000,Partner,,Energy
+Bryan850 Inc,,Trade Show,700000000,Customer,,Telecommunications
+Walters851 Inc,,Word of mouth,700000000,Partner,VT,Engineering
+Riley852 Inc,,Partner,700000000,Partner,,Media
+Jefferson853 Inc,,Partner,700000000,Customer,,Insurance
+Richardson854 Inc,,Public Relations,700000000,Partner,,Apparel
+Hodges855 Inc,,Word of mouth,700000000,Customer,,Retail
+Goodwin856 Inc,,Public Relations,700000000,Partner,NH,Consulting
+Johnston857 Inc,,Seminar - Internal,700000000,Customer,,Utilities
+Cross858 Inc,,Trade Show,700000000,Customer,LA,Energy
+Jefferson859 Inc,,Partner,700000000,Partner,,Apparel
+Stone860 Inc,,Word of mouth,700000000,Customer,SD,Biotechnology
+Murphy861 Inc,,Advertisement,700000000,Partner,,Communications
+Rodgers862 Inc,,Web,700000000,Customer,ND,Communications
+Payne863 Inc,,Web,700000000,Partner,,Transportation
+Estrada864 Inc,,Seminar - Internal,700000000,Partner,ND,Retail
+McDonald865 Inc,,Employee Referral,700000000,Customer,,Biotechnology
+Tran866 Inc,,Seminar - Internal,700000000,Customer,,Energy
+Riley867 Inc,,Employee Referral,700000000,Partner,,Utilities
+Herrera868 Inc,,Web,700000000,Customer,,Utilities
+Bailey19 Inc,,Word of mouth,2000000,Customer,MT,Biotechnology
+Vega20 Inc,,Web,2000000,Customer,,Utilities
+Goodman21 Inc,,Partner,2000000,Customer,,Apparel
+Austin22 Inc,,Trade Show,2000000,Customer,MD,Media
+Byrd23 Inc,,Employee Referral,2000000,Customer,MT,Education
+Lindsey24 Inc,,Word of mouth,2000000,Customer,,Energy
+Lopez215 Inc,,Web,2000000,Customer,,Communications
+Tate216 Inc,,Web,2000000,Partner,NV,Insurance
+Ingram217 Inc,,Partner,2000000,Partner,MA,Biotechnology
+Lopez218 Inc,,Employee Referral,2000000,Customer,RI,Media
+Becker219 Inc,,Web,2000000,Customer,,Consulting
+Cummings220 Inc,,Partner,2000000,Customer,IL,Utilities
+Harmon221 Inc,,Word of mouth,2000000,Customer,HI,Media
+Singleton222 Inc,,Employee Referral,2000000,Customer,WY,Energy
+Barber223 Inc,,Employee Referral,2000000,Customer,,Education
+Silva224 Inc,,Partner,2000000,Customer,,Banking
+Delgado225 Inc,,Public Relations,2000000,Partner,,Banking
+Simmons226 Inc,,Partner,2000000,Customer,,Media
+Gomez227 Inc,,Employee Referral,2000000,Customer,,Media
+Martinez228 Inc,,Web,2000000,Customer,MA,Retail
+Vaughn229 Inc,,Seminar - Internal,2000000,Partner,MS,Banking
+Hall230 Inc,,Advertisement,2000000,Partner,OH,Apparel
+Parks231 Inc,,Word of mouth,2000000,Customer,,Education
+Webb232 Inc,,Advertisement,2000000,Customer,,Media
+Meyer233 Inc,,Advertisement,2000000,Partner,OH,Finance
+Joseph988 Inc,,Web,700000000,Customer,DE,Energy
+Hogan989 Inc,,Trade Show,700000000,Customer,UT,Transportation
+West990 Inc,,Employee Referral,700000000,Customer,,Healthcare
+Adams991 Inc,,Employee Referral,700000000,Customer,,Energy
+Allison992 Inc,,Word of mouth,700000000,Partner,,Media
+Singleton993 Inc,,Trade Show,700000000,Customer,,Banking
+Obrien994 Inc,,Web,700000000,Customer,MN,Agriculture
+McKinney995 Inc,,Public Relations,700000000,Customer,MA,Education
+Hall996 Inc,,Partner,700000000,Customer,,Apparel
+Paul997 Inc,,Employee Referral,700000000,Partner,NV,Technology
+Curry998 Inc,,Employee Referral,700000000,Partner,,Banking
+Riley999 Inc,,Partner,700000000,Customer,,Energy
+Alvarez72 Inc,,Public Relations,700000000,Customer,,Technology
+Price73 Inc,,Advertisement,700000000,Customer,IN,Engineering
+Wood74 Inc,,Word of mouth,700000000,Customer,VA,Engineering
+Brock75 Inc,,Trade Show,700000000,Customer,,Apparel
+Watts76 Inc,,Web,700000000,Customer,,Manufacturing
+Norris77 Inc,,Advertisement,700000000,Customer,,Banking
+Evans78 Inc,,Advertisement,700000000,Partner,,Retail
+Rodgers79 Inc,,Public Relations,700000000,Partner,GA,Banking
+Stokes80 Inc,,Web,700000000,Customer,,Technology
+Lane81 Inc,,Word of mouth,700000000,Customer,KS,Engineering
+Flowers82 Inc,,Public Relations,700000000,Partner,,Biotechnology
+Gray83 Inc,,Trade Show,700000000,Customer,,Apparel
+Santos84 Inc,,Employee Referral,700000000,Partner,MA,Apparel
+Fletcher234 Inc,,Web,2000000,Partner,,Manufacturing
+McGee235 Inc,,Advertisement,2000000,Partner,LA,Manufacturing
+Alvarado236 Inc,,Word of mouth,2000000,Customer,WY,Biotechnology
+Perez237 Inc,,Employee Referral,2000000,Partner,NY,Utilities
+Taylor238 Inc,,Employee Referral,2000000,Customer,OH,Manufacturing
+Reeves436 Inc,,Advertisement,2000000,Customer,,Technology
+Nguyen437 Inc,,Trade Show,2000000,Partner,,Healthcare
+Williams438 Inc,,Web,2000000,Customer,,Media
+Rivera439 Inc,,Employee Referral,2000000,Partner,,Media
+Mann440 Inc,,Employee Referral,2000000,Customer,OR,Electronics
+Owens441 Inc,,Advertisement,2000000,Customer,,Agriculture
+Robinson442 Inc,,Partner,2000000,Partner,AZ,Retail
+James443 Inc,,Public Relations,2000000,Partner,RI,Manufacturing
+Oliver444 Inc,,Public Relations,2000000,Customer,UT,Energy
+Norton445 Inc,,Public Relations,2000000,Customer,,Utilities
+Benson446 Inc,,Seminar - Internal,2000000,Customer,,Apparel
+Beck447 Inc,,Trade Show,2000000,Customer,GA,Technology
+Myers448 Inc,,Partner,2000000,Customer,,Technology
+Robbins449 Inc,,Word of mouth,2000000,Customer,,Engineering
+Cox450 Inc,,Partner,2000000,Customer,AR,Electronics
+Collins451 Inc,,Word of mouth,2000000,Customer,MT,Healthcare
+Lambert452 Inc,,Public Relations,2000000,Customer,,Utilities
+Paul453 Inc,,Partner,2000000,Customer,,Transportation
+Bush454 Inc,,Employee Referral,2000000,Partner,,Finance
+Holloway455 Inc,,Word of mouth,2000000,Customer,,Agriculture
+Henry85 Inc,,Advertisement,700000000,Customer,,Banking
+Patton86 Inc,,Partner,700000000,Customer,FL,Finance
+Webster87 Inc,,Partner,700000000,Customer,,Retail
+Hunter88 Inc,,Partner,700000000,Customer,,Apparel
+Bowers89 Inc,,Word of mouth,700000000,Customer,UT,Banking
+Steele90 Inc,,Word of mouth,700000000,Customer,,Transportation
+Leonard91 Inc,,Public Relations,700000000,Customer,TX,Biotechnology
+Robbins92 Inc,,Employee Referral,700000000,Partner,NH,Consulting
+Lawrence93 Inc,,Seminar - Internal,700000000,Customer,MO,Manufacturing
+Sherman94 Inc,,Partner,700000000,Partner,NC,Engineering
+Dean95 Inc,,Employee Referral,700000000,Customer,HI,Banking
+Webb96 Inc,,Employee Referral,700000000,Partner,,Retail
+Woods287 Inc,,Word of mouth,700000000,Customer,,Insurance
+Coleman288 Inc,,Advertisement,700000000,Customer,,Engineering
+Schmidt289 Inc,,Trade Show,700000000,Customer,,Manufacturing
+Garrett290 Inc,,Employee Referral,700000000,Customer,,Engineering
+Pena291 Inc,,Web,700000000,Customer,,Apparel
+Gill292 Inc,,Employee Referral,700000000,Customer,,Apparel
+Marsh293 Inc,,Word of mouth,700000000,Customer,,Transportation
+Gordon294 Inc,,Seminar - Internal,700000000,Customer,TX,Engineering
+Holt295 Inc,,Web,700000000,Customer,,Education
+Gill296 Inc,,Partner,700000000,Partner,,Energy
+Mills297 Inc,,Word of mouth,700000000,Partner,,Healthcare
+Reynolds298 Inc,,Seminar - Internal,700000000,Customer,DE,Consulting
+Evans299 Inc,,Word of mouth,700000000,Partner,,Technology
+Bryant456 Inc,,Partner,2000000,Partner,,Electronics
+Romero457 Inc,,Employee Referral,2000000,Partner,NC,Energy
+Summers458 Inc,,Employee Referral,2000000,Customer,CA,Electronics
+Copeland459 Inc,,Employee Referral,2000000,Customer,,Consulting
+Bowers460 Inc,,Trade Show,2000000,Partner,,Banking
+Rodgers461 Inc,,Employee Referral,2000000,Partner,NE,Retail
+Boone625 Inc,,Trade Show,2000000,Customer,,Media
+Rodriquez626 Inc,,Public Relations,2000000,Customer,CA,Insurance
+Hale627 Inc,,Seminar - Internal,2000000,Customer,ND,Electronics
+Stokes628 Inc,,Trade Show,2000000,Customer,,Telecommunications
+Edwards629 Inc,,Partner,2000000,Customer,,Electronics
+Gordon630 Inc,,Public Relations,2000000,Partner,,Agriculture
+Thomas631 Inc,,Employee Referral,2000000,Customer,,Biotechnology
+Hodges632 Inc,,Web,2000000,Customer,,Manufacturing
+Lindsey633 Inc,,Partner,2000000,Customer,,Insurance
+Price634 Inc,,Word of mouth,2000000,Customer,,Manufacturing
+Mack635 Inc,,Web,2000000,Customer,HI,Transportation
+Walton636 Inc,,Trade Show,2000000,Partner,NE,Consulting
+Herrera637 Inc,,Partner,2000000,Customer,,Utilities
+Anderson638 Inc,,Employee Referral,2000000,Customer,,Insurance
+Ryan639 Inc,,Seminar - Internal,2000000,Customer,,Communications
+Paul640 Inc,,Trade Show,2000000,Customer,,Electronics
+Hoffman641 Inc,,Web,2000000,Customer,,Utilities
+Norris642 Inc,,Word of mouth,2000000,Customer,,Apparel
+Moran300 Inc,,Trade Show,700000000,Customer,,Healthcare
+Long301 Inc,,Trade Show,700000000,Customer,NM,Healthcare
+McDaniel302 Inc,,Trade Show,700000000,Customer,NH,Education
+Christensen303 Inc,,Employee Referral,700000000,Customer,,Insurance
+Phelps304 Inc,,Employee Referral,700000000,Customer,,Apparel
+Gutierrez305 Inc,,Trade Show,700000000,Customer,,Energy
+Woods306 Inc,,Word of mouth,700000000,Customer,MO,Agriculture
+Fowler307 Inc,,Web,700000000,Partner,,Agriculture
+Hughes308 Inc,,Employee Referral,700000000,Customer,CA,Finance
+Harper309 Inc,,Employee Referral,700000000,Customer,,Apparel
+Sims310 Inc,,Employee Referral,700000000,Partner,,Apparel
+Wright311 Inc,,Public Relations,700000000,Partner,,Technology
+Wade312 Inc,,Trade Show,700000000,Partner,,Transportation
+Edwards508 Inc,,Trade Show,700000000,Customer,ND,Banking
+Holland509 Inc,,Employee Referral,700000000,Customer,,Electronics
+Medina510 Inc,,Advertisement,700000000,Customer,,Technology
+Patton511 Inc,,Partner,700000000,Partner,,Manufacturing
+Berry512 Inc,,Trade Show,700000000,Customer,,Transportation
+Conner513 Inc,,Web,700000000,Partner,IA,Engineering
+Tran514 Inc,,Employee Referral,700000000,Partner,,Engineering
+Wade515 Inc,,Web,700000000,Customer,,Agriculture
+Morales516 Inc,,Trade Show,700000000,Partner,,Energy
+Fox517 Inc,,Word of mouth,700000000,Customer,TN,Energy
+Guzman518 Inc,,Partner,700000000,Partner,CA,Banking
+Bennett519 Inc,,Word of mouth,700000000,Customer,,Manufacturing
+Griffith643 Inc,,Public Relations,2000000,Partner,,Media
+Ingram644 Inc,,Public Relations,2000000,Customer,,Communications
+Tran645 Inc,,Word of mouth,2000000,Customer,,Biotechnology
+Zimmerman646 Inc,,Web,2000000,Customer,,Banking
+Norton790 Inc,,Employee Referral,2000000,Customer,MO,Agriculture
+Bradley791 Inc,,Word of mouth,2000000,Customer,,Banking
+Valdez792 Inc,,Employee Referral,2000000,Customer,LA,Banking
+Nguyen793 Inc,,Partner,2000000,Partner,,Retail
+Weber794 Inc,,Web,2000000,Partner,WV,Engineering
+Gordon795 Inc,,Trade Show,2000000,Partner,MT,Banking
+Mitchell796 Inc,,Word of mouth,2000000,Customer,,Manufacturing
+Kim797 Inc,,Partner,2000000,Customer,,Manufacturing
+Tran798 Inc,,Partner,2000000,Customer,,Agriculture
+Thornton799 Inc,,Word of mouth,2000000,Customer,WI,Technology
+Kim800 Inc,,Employee Referral,2000000,Customer,,Technology
+Gutierrez801 Inc,,Employee Referral,2000000,Customer,,Banking
+Munoz802 Inc,,Employee Referral,2000000,Customer,,Utilities
+Ortiz520 Inc,,Seminar - Internal,700000000,Customer,ID,Transportation
+Knight521 Inc,,Seminar - Internal,700000000,Customer,IL,Transportation
+Collins522 Inc,,Employee Referral,700000000,Customer,,Engineering
+Ramirez523 Inc,,Partner,700000000,Customer,,Utilities
+Lopez524 Inc,,Advertisement,700000000,Partner,WA,Media
+Evans525 Inc,,Partner,700000000,Partner,,Education
+Porter526 Inc,,Web,700000000,Customer,ID,Electronics
+Snyder527 Inc,,Word of mouth,700000000,Customer,,Insurance
+Pittman528 Inc,,Partner,700000000,Customer,,Energy
+Flowers529 Inc,,Word of mouth,700000000,Customer,,Utilities
+Williamson530 Inc,,Employee Referral,700000000,Customer,,Biotechnology
+McKenzie531 Inc,,Employee Referral,700000000,Partner,CT,Media
+Cross532 Inc,,Employee Referral,700000000,Customer,,Insurance
+Stone533 Inc,,Web,700000000,Customer,OR,Technology
+Harmon693 Inc,,Word of mouth,700000000,Partner,NC,Transportation
+Carroll694 Inc,,Web,700000000,Customer,ID,Communications
+McCoy695 Inc,,Public Relations,700000000,Partner,,Engineering
+Lawrence696 Inc,,Seminar - Internal,500000,Customer,,Biotechnology
+Hoffman697 Inc,,Word of mouth,500000,Customer,PA,Healthcare
+Morton698 Inc,,Web,500000,Customer,CT,Apparel
+Warner699 Inc,,Employee Referral,500000,Customer,,Insurance
+Shaw700 Inc,,Partner,500000,Customer,,Consulting
+Crawford701 Inc,,Partner,500000,Customer,,Technology
+Black702 Inc,,Word of mouth,500000,Customer,AZ,Banking
+Webster803 Inc,,Employee Referral,2000000,Partner,,Telecommunications
+Roberts804 Inc,,Advertisement,2000000,Partner,,Banking
+Ellis805 Inc,,Trade Show,2000000,Customer,,Healthcare
+Patrick806 Inc,,Web,2000000,Customer,,Energy
+Price807 Inc,,Web,2000000,Partner,,Apparel
+Rodriguez808 Inc,,Trade Show,2000000,Customer,,Transportation
+Morales809 Inc,,Trade Show,2000000,Partner,NJ,Energy
+Burton810 Inc,,Public Relations,2000000,Partner,NC,Banking
+Chandler811 Inc,,Employee Referral,2000000,Partner,IN,Manufacturing
+Adkins812 Inc,,Web,2000000,Customer,,Energy
+Arnold813 Inc,,Partner,2000000,Customer,NH,Communications
+Gordon814 Inc,,Employee Referral,2000000,Partner,MD,Energy
+Sims815 Inc,,Web,2000000,Partner,NY,Finance
+Stevenson947 Inc,,Trade Show,2000000,Customer,,Energy
+Chavez948 Inc,,Employee Referral,2000000,Partner,OR,Biotechnology
+Martin949 Inc,,Web,2000000,Customer,KS,Finance
+Cohen950 Inc,,Web,2000000,Customer,,Biotechnology
+Walsh951 Inc,,Advertisement,2000000,Partner,,Apparel
+Sims952 Inc,,Public Relations,2000000,Customer,,Engineering
+Reed953 Inc,,Trade Show,2000000,Customer,NY,Apparel
+Stevenson954 Inc,,Employee Referral,2000000,Customer,MI,Insurance
+Briggs955 Inc,,Public Relations,2000000,Customer,,Energy
+Rodgers956 Inc,,Seminar - Internal,2000000,Customer,,Electronics
+Sanchez957 Inc,,Employee Referral,2000000,Customer,,Apparel
+Jimenez958 Inc,,Word of mouth,2000000,Customer,PA,Apparel
+Page703 Inc,,Employee Referral,500000,Partner,,Agriculture
+Alexander704 Inc,,Public Relations,500000,Customer,,Banking
+Graham705 Inc,,Advertisement,500000,Customer,AR,Apparel
+West706 Inc,,Word of mouth,500000,Customer,NC,Technology
+Garza707 Inc,,Trade Show,500000,Customer,SD,Utilities
+Scott708 Inc,,Trade Show,500000,Customer,ND,Communications
+Sutton709 Inc,,Web,500000,Partner,,Media
+Fleming710 Inc,,Word of mouth,500000,Customer,,Utilities
+Delgado711 Inc,,Web,500000,Customer,ND,Transportation
+Grant712 Inc,,Employee Referral,500000,Customer,,Insurance
+Hernandez713 Inc,,Advertisement,500000,Customer,,Banking
+Carson714 Inc,,Word of mouth,500000,Customer,,Energy
+Bradley715 Inc,,Public Relations,500000,Customer,ME,Insurance
+Fowler716 Inc,,Web,500000,Customer,,Education
+Hart717 Inc,,Partner,500000,Customer,FL,Healthcare
+Vega718 Inc,,Web,500000,Customer,CO,Energy
+Chambers869 Inc,,Word of mouth,500000,Customer,,Engineering
+Aguilar870 Inc,,Word of mouth,500000,Customer,,Media
+Gomez871 Inc,,Seminar - Internal,500000,Customer,ME,Utilities
+Owen872 Inc,,Partner,500000,Customer,,Engineering
+Shelton873 Inc,,Trade Show,500000,Partner,KY,Engineering
+Erickson874 Inc,,Employee Referral,500000,Customer,OK,Media
+Sparks875 Inc,,Web,500000,Customer,,Engineering
+Alvarez876 Inc,,Employee Referral,500000,Customer,,Energy
+Greer122 Inc,,Partner,1000000,Customer,,Technology
+Stewart123 Inc,,Public Relations,1000000,Partner,,Banking
+Frank124 Inc,,Web,1000000,Partner,,Manufacturing
+Burke125 Inc,,Web,1000000,Customer,,Telecommunications
+Bates126 Inc,,Partner,1000000,Partner,,Healthcare
+Nash127 Inc,,Word of mouth,1000000,Customer,,Transportation
+Morton128 Inc,,Web,1000000,Customer,,Transportation
+Cruz129 Inc,,Trade Show,1000000,Customer,,Agriculture
+Jennings130 Inc,,Word of mouth,1000000,Customer,,Apparel
+Rodgers131 Inc,,Trade Show,1000000,Customer,,Manufacturing
+Cobb132 Inc,,Employee Referral,1000000,Customer,,Apparel
+Johnston133 Inc,,Trade Show,1000000,Customer,OR,Technology
+Nichols134 Inc,,Word of mouth,1000000,Customer,AZ,Finance
+Larson135 Inc,,Partner,1000000,Customer,,Manufacturing
+Thompson136 Inc,,Web,1000000,Customer,,Energy
+Ramirez137 Inc,,Employee Referral,1000000,Customer,,Electronics
+Peters138 Inc,,Web,1000000,Customer,,Retail
+Pope139 Inc,,Web,1000000,Partner,KY,Transportation
+Lopez140 Inc,,Trade Show,1000000,Customer,,Energy
+Daniels141 Inc,,Partner,1000000,Customer,,Utilities
+Underwood142 Inc,,Advertisement,1000000,Customer,NJ,Energy
+McKenzie143 Inc,,Employee Referral,1000000,Customer,,Media
+Quinn144 Inc,,Employee Referral,1000000,Customer,,Engineering
+Newman145 Inc,,Employee Referral,1000000,Customer,MS,Insurance
+Oliver959 Inc,,Employee Referral,2000000,Partner,NE,Technology
+Johnson960 Inc,,Employee Referral,2000000,Partner,,Communications
+Stokes961 Inc,,Advertisement,2000000,Customer,IN,Agriculture
+Adams25 Inc,,Partner,2000000,Customer,,Transportation
+McGuire26 Inc,,Word of mouth,2000000,Partner,LA,Energy
+Dennis27 Inc,,Public Relations,2000000,Partner,,Media
+Cohen28 Inc,,Advertisement,2000000,Customer,,Retail
+Reid29 Inc,,Seminar - Internal,2000000,Customer,MN,Biotechnology
+Francis30 Inc,,Advertisement,2000000,Customer,VA,Biotechnology
+Long31 Inc,,Trade Show,2000000,Customer,MN,Consulting
+Peterson32 Inc,,Word of mouth,2000000,Customer,,Retail
+Graves33 Inc,,Seminar - Internal,2000000,Customer,ID,Telecommunications
+Vasquez34 Inc,,Advertisement,2000000,Customer,KY,Technology
+Silva35 Inc,,Employee Referral,2000000,Partner,,Telecommunications
+Soto36 Inc,,Partner,2000000,Customer,MO,Healthcare
+Delgado37 Inc,,Employee Referral,2000000,Customer,,Education
+Gutierrez38 Inc,,Employee Referral,2000000,Customer,,Technology
+Greer39 Inc,,Employee Referral,2000000,Partner,,Biotechnology
+Webster40 Inc,,Public Relations,2000000,Customer,,Consulting
+Morales41 Inc,,Employee Referral,2000000,Partner,TN,Banking
+Adkins42 Inc,,Web,2000000,Customer,,Utilities
+Carr43 Inc,,Employee Referral,2000000,Customer,,Apparel
+Bennett44 Inc,,Seminar - Internal,2000000,Partner,DE,Manufacturing
+Norton877 Inc,,Partner,500000,Customer,OK,Consulting
+Barber878 Inc,,Advertisement,500000,Partner,MI,Consulting
+Hoffman879 Inc,,Partner,500000,Customer,,Manufacturing
+Wallace880 Inc,,Partner,500000,Customer,WV,Manufacturing
+Hawkins881 Inc,,Trade Show,500000,Partner,WV,Apparel
+Bush882 Inc,,Public Relations,500000,Partner,,Manufacturing
+Goodman883 Inc,,Word of mouth,500000,Partner,,Energy
+Stevenson884 Inc,,Partner,500000,Customer,,Education
+Banks885 Inc,,Public Relations,500000,Customer,OK,Transportation
+Bailey886 Inc,,Web,500000,Customer,NV,Electronics
+McKenzie887 Inc,,Seminar - Internal,500000,Customer,OR,Media
+Alvarez888 Inc,,Trade Show,500000,Partner,,Biotechnology
+Carr889 Inc,,Web,500000,Customer,IN,Communications
+Brock890 Inc,,Word of mouth,500000,Customer,,Transportation
+Henderson891 Inc,,Word of mouth,500000,Customer,,Banking
+Christensen892 Inc,,Advertisement,500000,Customer,KY,Healthcare
+Bailey893 Inc,,Employee Referral,500000,Customer,ID,Electronics
+Beck894 Inc,,Web,500000,Customer,,Agriculture
+King97 Inc,,Partner,500000,Customer,,Finance
+Chandler98 Inc,,Partner,500000,Partner,NE,Insurance
+Parks99 Inc,,Employee Referral,500000,Partner,HI,Manufacturing
+Floyd100 Inc,,Public Relations,500000,Customer,,Healthcare
+Love101 Inc,,Partner,500000,Customer,,Manufacturing
+Ruiz102 Inc,,Seminar - Internal,500000,Customer,ME,Agriculture
+Ortega103 Inc,,Employee Referral,500000,Customer,GA,Biotechnology
+Knight146 Inc,,Employee Referral,1000000,Customer,CT,Energy
+Graves147 Inc,,Word of mouth,1000000,Customer,CO,Biotechnology
+Thomas148 Inc,,Word of mouth,1000000,Customer,,Biotechnology
+Colon149 Inc,,Web,1000000,Partner,,Insurance
+Salazar150 Inc,,Advertisement,1000000,Customer,,Utilities
+McGuire151 Inc,,Word of mouth,1000000,Customer,,Transportation
+Butler152 Inc,,Advertisement,1000000,Partner,HI,Electronics
+Miles153 Inc,,Employee Referral,1000000,Partner,,Education
+Mann154 Inc,,Trade Show,1000000,Customer,,Apparel
+Reyes155 Inc,,Advertisement,1000000,Customer,,Banking
+Nguyen156 Inc,,Public Relations,1000000,Customer,,Healthcare
+Fletcher157 Inc,,Partner,1000000,Customer,,Communications
+Parsons158 Inc,,Employee Referral,1000000,Partner,,Biotechnology
+Flores159 Inc,,Employee Referral,1000000,Customer,,Media
+Shaw160 Inc,,Employee Referral,1000000,Customer,,Education
+Dawson161 Inc,,Partner,1000000,Customer,,Education
+McCarthy162 Inc,,Employee Referral,1000000,Partner,,Technology
+Lopez363 Inc,,Word of mouth,1000000,Customer,,Media
+Ross364 Inc,,Public Relations,1000000,Customer,,Insurance
+Luna365 Inc,,Partner,1000000,Partner,WV,Banking
+Moreno366 Inc,,Web,1000000,Customer,NY,Technology
+Clarke367 Inc,,Web,1000000,Customer,,Healthcare
+Dunn368 Inc,,Partner,1000000,Customer,ID,Biotechnology
+Coleman369 Inc,,Employee Referral,1000000,Customer,CO,Media
+Alvarez45 Inc,,Advertisement,2000000,Partner,,Education
+Lawrence46 Inc,,Public Relations,2000000,Customer,,Manufacturing
+Casey47 Inc,,Word of mouth,800000,Customer,,Education
+Gutierrez48 Inc,,Employee Referral,800000,Customer,RI,Telecommunications
+West49 Inc,,Trade Show,800000,Partner,,Apparel
+Lawrence50 Inc,,Employee Referral,800000,Customer,,Technology
+Walsh51 Inc,,Word of mouth,800000,Partner,,Agriculture
+Guzman239 Inc,,Public Relations,800000,Customer,LA,Retail
+Hampton240 Inc,,Web,800000,Partner,FL,Retail
+Johnston241 Inc,,Partner,800000,Customer,,Apparel
+Cross242 Inc,,Word of mouth,800000,Customer,,Education
+Nguyen243 Inc,,Word of mouth,800000,Customer,,Manufacturing
+Wise244 Inc,,Seminar - Internal,800000,Customer,,Agriculture
+Terry245 Inc,,Employee Referral,800000,Customer,NJ,Technology
+Medina246 Inc,,Web,800000,Customer,LA,Utilities
+Moore247 Inc,,Trade Show,800000,Customer,DC,Retail
+Greene248 Inc,,Employee Referral,800000,Partner,,Utilities
+Butler249 Inc,,Employee Referral,800000,Customer,,Energy
+Bryant250 Inc,,Employee Referral,800000,Customer,,Biotechnology
+Rivera251 Inc,,Web,800000,Customer,MN,Finance
+Meyer252 Inc,,Partner,800000,Customer,,Finance
+Phillips253 Inc,,Employee Referral,800000,Customer,,Telecommunications
+Glover254 Inc,,Advertisement,800000,Partner,,Banking
+Ortega255 Inc,,Employee Referral,800000,Customer,NY,Retail
+Love256 Inc,,Partner,800000,Customer,OR,Energy
+Moran104 Inc,,Employee Referral,500000,Customer,MI,Energy
+Nichols105 Inc,,Web,500000,Partner,,Engineering
+Byrd106 Inc,,Trade Show,500000,Customer,,Consulting
+Hines107 Inc,,Word of mouth,500000,Customer,MN,Energy
+Dixon108 Inc,,Employee Referral,500000,Customer,,Retail
+Warner109 Inc,,Advertisement,500000,Customer,ND,Media
+Medina110 Inc,,Trade Show,500000,Customer,,Banking
+Cannon111 Inc,,Partner,500000,Customer,,Finance
+Schultz112 Inc,,Employee Referral,500000,Partner,CO,Technology
+Pittman113 Inc,,Partner,500000,Customer,SD,Manufacturing
+Ramsey114 Inc,,Word of mouth,500000,Customer,WA,Manufacturing
+Parks115 Inc,,Partner,500000,Customer,,Apparel
+Guzman116 Inc,,Advertisement,500000,Customer,,Retail
+Cook117 Inc,,Public Relations,500000,Customer,,Energy
+Webster118 Inc,,Employee Referral,500000,Partner,DE,Engineering
+Francis119 Inc,,Seminar - Internal,500000,Customer,,Healthcare
+Jackson120 Inc,,Word of mouth,500000,Customer,,Consulting
+Malone121 Inc,,Word of mouth,500000,Customer,,Biotechnology
+Hansen313 Inc,,Public Relations,500000,Customer,,Technology
+Cook314 Inc,,Partner,500000,Customer,VT,Utilities
+Malone315 Inc,,Word of mouth,500000,Customer,,Engineering
+Page316 Inc,,Web,500000,Customer,NY,Engineering
+Diaz317 Inc,,Web,500000,Partner,,Insurance
+Brewer318 Inc,,Partner,500000,Customer,AL,Utilities
+Stewart319 Inc,,Web,500000,Partner,MT,Energy

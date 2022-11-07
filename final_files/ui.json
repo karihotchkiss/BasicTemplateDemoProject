@@ -1,0 +1,12 @@
+{
+  "pages" : [{
+    "title": "Choose a type for your dashboard charts",
+    "variables": [
+      {
+        "name": "newField",
+        "visibility": "Visible"
+      }
+    ]
+  } ],
+  "displayMessages" : [ ]
+}

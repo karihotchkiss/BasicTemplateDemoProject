@@ -1,0 +1,83 @@
+{
+  "templateType" : "app",
+  "label" : "A Template for November's Demo",
+  "name" : "NovemberDemoTemplate",
+  "namespace" : "kari_de",
+  "description" : "This will create one dashboard, 2 datasets and one recipe.",
+  "assetVersion" : 56.0,
+  "variableDefinition" : "variables.json",
+  "uiDefinition" : "ui.json",
+  "rules" : [
+    {
+      "type" : "templateToApp",
+      "file" : "template-to-app-rules.json"
+    },
+    {
+      "type" : "appToTemplate",
+      "file" : "app-to-template-rules.json"
+    }
+  ],
+  "releaseInfo" : {
+    "templateVersion" : "1.0",
+    "notesFile" : "releaseNotes.html"
+  },
+  "folderDefinition" : "folder.json",
+  "externalFiles" : [ ],
+  "lenses" : [ ],
+  "dashboards" : [
+    {
+      "label" : "ComparePartnersToCustomers",
+      "name" : "ComparePartnersToCustomers_tp",
+      "condition" : "${Variables.Overrides.createAllDashboards}",
+      "file" : "dashboards/ComparePartnersToCustomers.json"
+    }
+  ],
+  "components" : [ ],
+  "eltDataflows" : [ ],
+  "recipes" : [
+    {
+      "label" : "RecipeOne",
+      "name" : "RecipeOne",
+      "condition" : "${Variables.Overrides.createAllRecipes}",
+      "file" : "recipes/RecipeOne.json",
+      "executeCondition" : "CreateSyncExecute"
+    }
+  ],
+  "datasetFiles" : [
+    {
+      "label" : "CustomerAccounts",
+      "name" : "CustomerAccounts_tp",
+      "condition" : "${Variables.Overrides.createAllDatasetFiles}",
+      "userXmd" : "dataset_files/CustomerAccounts_XMD.json"
+    },
+    {
+      "label" : "PartnerAccounts",
+      "name" : "PartnerAccounts_tp",
+      "condition" : "${Variables.Overrides.createAllDatasetFiles}",
+      "userXmd" : "dataset_files/PartnerAccounts_XMD.json"
+    }
+  ],
+  "storedQueries" : [ ],
+  "imageFiles" : [
+    {
+      "name" : "Comparisonpng",
+      "condition" : "${Variables.Overrides.createAllImages}",
+      "file" : "images/Comparison.png"
+    }
+  ],
+  "extendedTypes" : { },
+  "templateDependencies" : [ ],
+  "icons" : {
+    "appBadge" : {
+      "name" : "16.png"
+    },
+    "templateBadge" : {
+      "name" : "comp"
+    },
+    "templatePreviews" : [{
+      "label": "The Dashboard",
+      "name": "demo_preview",
+      "description": "Here is what the dashboard looks like."
+    } ]
+  }
+}

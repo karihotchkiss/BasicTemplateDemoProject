@@ -1,0 +1,38 @@
+{
+  "constants" : [ ],
+  "macros" : [ ],
+  "rules" : [
+    {
+      "name": "Replace references to group field name.",
+      "appliesTo": [
+        {
+          "type": "dashboard",
+          "name": "*"
+        }
+      ],
+      "actions": [
+        {
+            "action": "replace",
+            "key": "AccountSource",
+            "value": "${Variables.newField.fieldName}"
+        }
+      ]
+    },
+    {
+      "name": "Add Field to Recipe Extract",
+      "appliesTo": [
+        {
+          "type": "recipe",
+          "name": "*"
+        }
+      ],
+      "actions": [
+        {
+          "action": "add",
+          "path": "$.recipeDefinition.nodes.LOAD_DATASET0.parameters.fields",
+          "value": "${Variables.newField.fieldName}"
+        }
+      ]
+    }
+   ]
+}
